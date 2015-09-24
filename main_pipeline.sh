@@ -26,7 +26,7 @@ then
 	
 	exit
 fi
-
+echo "HALLOOOOOOOO"
 echo $1
 output1=${1::-4}"_voor_snippen_"
 echo $2
